@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am ABHINAV SINGWAL, I love coding and like to learn about new technologies. I have done my polytechnic diploma in the streaming of computer science. I have a good experience in programming languages like:- php, javascript, python etc. I am currently pursuing my Btech degree in Computer Science from AKTU. I like python & react combination and want to build robust web applications using python. 
+I am ABHINAV SINGWAL, I love coding and like to learn about new technologies. I have done my polytechnic diploma in the streaming of computer science. I have a good experience in programming languages like:- php, javascript, python etc. I am currently pursuing my B-tech degree in Computer Science from AKTU. I like python & react combination and want to build robust web applications using python. 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I'm currently working on Meta Search Engine. 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
