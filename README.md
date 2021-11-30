@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am ABHINAV SINGWAL, I love coding and like to learn about new technologies. I have done my polytechnic diploma in the streaming of computer science. I have a good experience in programming languages like:- php, javascript, python etc. I am currently pursuing my Btech degree in Computer Science from AKTU. I like python & react combination and want to build robust web applications using python. 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I'm currently working on Meta Search Engine. 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+github.com/abhinavsingwal
+stackoverflow.com/abhinavsingwal
+twitter.com/abhinav_singwal
+
+
 <!--
 **abhinavsingwal/abhinavsingwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
