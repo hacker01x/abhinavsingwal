@@ -4,9 +4,7 @@ I am ABHINAV SINGWAL, I love coding and like to learn about new technologies. I 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I'm currently working on Meta Search Engine. 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-github.com/abhinavsingwal
-stackoverflow.com/abhinavsingwal
-twitter.com/abhinav_singwal
+Twitter : https://twitter.com/abhinav_singwal
 
 
 <!--
