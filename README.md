@@ -7,6 +7,9 @@ I'm currently working on Meta Search Engine.
 Twitter : https://twitter.com/abhinav_singwal
 
 
+LinkedIn : https://www.linkedin.com/in/abhinav-singwal/
+
+
 <!--
 **abhinavsingwal/abhinavsingwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
