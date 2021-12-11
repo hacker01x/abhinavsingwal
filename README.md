@@ -6,9 +6,8 @@ I am ABHINAV SINGWAL, I love coding and like to learn about new technologies. I 
 - 🌱 I’m currently learning React JS and Django
 
 - 📫 How to reach me: 
-- 
- Twitter : https://twitter.com/abhinav_singwal
- LinkedIn : https://www.linkedin.com/in/abhinav-singwal/
+- Twitter : https://twitter.com/abhinav_singwal
+- LinkedIn : https://www.linkedin.com/in/abhinav-singwal/
 
 
 <!--
