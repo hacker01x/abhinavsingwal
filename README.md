@@ -6,9 +6,13 @@ I am ABHINAV SINGWAL, I love coding and like to learn about new technologies. I 
 - 🌱 I’m currently learning React JS and Django
 
 - 📫 How to reach me: 
-- Twitter : https://twitter.com/abhinav_singwal
+- Twitter  : https://twitter.com/abhinav_singwal
 - LinkedIn : https://www.linkedin.com/in/abhinav-singwal/
+- Mail     : abhinavsingwal@gmail.com
+- instagram: https://www.instagram.com/abhinavsingwal
 
+I'm currently working on web projects.
+I'm currently learning python and reactjs
 
 <!--
 **abhinavsingwal/abhinavsingwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
