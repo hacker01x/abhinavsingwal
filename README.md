@@ -1,11 +1,12 @@
 ### Hi there 👋
+My name is Abhinav. I love coding and like to learn about new technologies. I have completed my Diploma in CSE. I have good knowledge of programming languages like Python, Java and JavaScript. I am currenty Pursuing my B-tech degree in CSSE from AKTU. I have developed many python scripts for Raspberry Pi and also developed many automation scripts. I have also good knowledge of linux, Cyber Security and Machine Learning. 
 
-I am ABHINAV SINGWAL, I love coding and like to learn about new technologies. I have done my polytechnic diploma in the streaming of computer science. I have a good experience in programming languages like:- php, javascript, python etc. I am currently pursuing my B-tech degree in Computer Science from AKTU. I like python & react combination and want to build robust web applications using python. 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 🔭 I’m currently working on Web Projects.
-- 🌱 I’m currently learning React JS and Django
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+- 🔭 I’m currently Learning Cyber Security and Machine Learning.
+- 🌱 I’m currently  working on Django projects.
 
 - 📫 How to reach me: 
+- 
 - Twitter  : https://twitter.com/abhinav_singwal
 - LinkedIn : https://www.linkedin.com/in/abhinav-singwal/
 - Mail     : abhinavsingwal@gmail.com
