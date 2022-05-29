@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi.. 👋
 My name is Abhinav. I love coding and like to learn about new technologies. I have completed my Diploma in CSE. I have good knowledge of programming languages like Python, Java and JavaScript. I am currenty Pursuing my B-tech degree in CSSE from AKTU. I have developed many python scripts for Raspberry Pi and also developed many automation scripts. I have also good knowledge of linux, Cyber Security and Machine Learning. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
