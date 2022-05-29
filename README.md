@@ -12,8 +12,7 @@ My name is Abhinav. I love coding and like to learn about new technologies. I ha
 - Mail     : abhinavsingwal@gmail.com
 - instagram: https://www.instagram.com/abhinavsingwal
 
-I'm currently working on web projects.
-I'm currently learning python and reactjs
+
 
 <!--
 **abhinavsingwal/abhinavsingwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
