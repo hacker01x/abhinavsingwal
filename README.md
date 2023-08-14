@@ -1,5 +1,5 @@
 Hi.. 👋
-My name is Abhinav. I love coding and like to learn about new technologies. I have completed my Diploma in CSE. I have good knowledge of programming languages like Python, Java and JavaScript. I am currenty Pursuing my B-tech degree in CSSE from AKTU. I have developed python projects for Raspberry Pi and Web. I have also good knowledge of Django, Django REST FRAMEWORK and Machine Learning. 
+My name is Abhinav. I love coding and like to learn about new technologies. I have completed my Diploma in CSE. I have good knowledge of programming languages like Python, Java and JavaScript. I am currenty Pursuing my B-tech degree in CSSE from AKTU. I have developed python projects for Raspberry Pi and Web. I have also good knowledge of Django, Django REST Framework and Machine Learning. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 - 🔭 I’m currently Learning Django and Machine Learning.
